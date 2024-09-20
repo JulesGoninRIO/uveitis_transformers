@@ -1,0 +1,131 @@
+{
+    "105_2021-03-04_L": {
+        "vascular leakage": "multifocal"
+    },
+    "108_2020-02-26_L": {
+        "capillary leakage": "limited"
+    },
+    "109_2020-07-22_L": "excluded",
+    "109_2020-07-22_R": "excluded",
+    "159_2021-02-03_R": {
+        "optic disk hyperfluorescence": "none"
+    },
+    "51_2013-01-09_R": {
+        "date": "2013-01-10",
+        "key": "51_2013-01-10_R"
+    },
+    "51_2013-01-09_L": {
+        "date": "2013-01-10",
+        "key": "51_2013-01-10_L"
+    },
+    "22_2016-10-03_R": "excluded",
+    "307_2018-03-19_R": "excluded",
+    "32_2018-07-24_R": "excluded",
+    "339_2018-10-03_R": "excluded",
+    "189_2016-03-08_R": "excluded",
+    "471_2019-09-30_L": "excluded",
+    "527_2017-10-16_R": "excluded",
+    "115_2021-12-01_R": {
+        "optic disk hyperfluorescence": "diffuse staining"
+    },
+    "128_2015-03-26_L": {
+        "macular edema": "faint hyperfluorescence"
+    },
+    "137_2014-03-17_R": {
+        "macular edema": "incomplete ring of leakage"
+    },
+    "141_2015-10-15_R": {
+        "macular edema": "incomplete ring of leakage"
+    },
+    "147_2017-05-05_L": {
+        "macular edema": "incomplete ring of leakage"
+    },
+    "168_2017-03-07_L": {
+        "optic disk hyperfluorescence": "diffuse staining"
+    },
+    "202_2017-01-25_L": {
+        "optic disk hyperfluorescence": "diffuse staining",
+        "macular edema": "faint hyperfluorescence"
+    },
+    "207_2016-08-17_L": {
+        "optic disk hyperfluorescence": "partial staining"
+    },
+    "230_2017-02-06_R": {
+        "optic disk hyperfluorescence": "partial staining"
+    },
+    "232_2017-02-23_R": {
+        "optic disk hyperfluorescence": "diffuse staining",
+        "macular edema": "complete ring of leakage",
+        "vascular leakage": "multifocal",
+        "capillary leakage": "diffuse (capillar)"
+    },
+    "250_2017-06-12_R": {
+        "optic disk hyperfluorescence": "diffuse staining"
+    },
+    "271_2017-09-12_R": {
+        "vascular leakage": "none"
+    },
+    "284_2017-11-29_L": {
+        "optic disk hyperfluorescence": "diffuse staining",
+        "vascular leakage": "focal"
+    },
+    "292_2017-12-22_L": {
+        "optic disk hyperfluorescence": "partial staining"
+    },
+    "354_2019-02-01_L": {
+        "vascular leakage": "focal"
+    },
+    "354_2019-02-01_R": {
+        "vascular leakage": "focal"
+    },
+    "376_2019-08-08_R": {
+        "macular edema": "faint hyperfluorescence",
+        "vascular leakage": "multifocal"
+    },
+    "377_2019-08-13_L": {
+        "macular edema": "incomplete ring of leakage"
+    },
+    "385_2019-09-24_R": {
+        "macular edema": "incomplete ring of leakage"
+    },
+    "402_2019-12-04_L": {
+        "optic disk hyperfluorescence": "diffuse staining"
+    },
+    "410_2019-12-24_L": {
+        "optic disk hyperfluorescence": "margin blurring"
+    },
+    "428_2020-06-05_R": {
+        "macular edema": "complete ring of leakage"
+    },
+    "446_2021-01-07_L": {
+        "optic disk hyperfluorescence": "diffuse staining"
+    },
+    "452_2021-02-10_R": {
+        "vascular leakage": "multifocal"
+    },
+    "485_2017-05-16_R": {
+        "optic disk hyperfluorescence": "margin blurring"
+    },
+    "500_2021-02-09_R": {
+        "macular edema": "incomplete ring of leakage"
+    },
+    "519_2018-04-18_L": {
+        "optic disk hyperfluorescence": "diffuse staining"
+    },
+    "529_2020-02-25_R": {
+        "capillary leakage": "diffuse (capillar)",
+        "vascular leakage": "diffuse"
+    },
+    "539_2016-03-16_L": {
+        "vascular leakage": "focal"
+    },
+    "73_2020-09-25_R": {
+        "macular edema": "faint hyperfluorescence"
+    },
+    "81_2011-10-13_L": {
+        "optic disk hyperfluorescence": "diffuse staining"
+    },
+    "86_2012-09-06_L": {
+        "macular edema": "incomplete ring of leakage"
+    }
+}

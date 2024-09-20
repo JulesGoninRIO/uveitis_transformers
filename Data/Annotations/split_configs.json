@@ -1,0 +1,10 @@
+{
+    "items": ["vascular leakage", "optic disk hyperfluorescence", "capillary leakage", "macular edema"],
+    "tol_diff": 3,
+    "tol_ratio": 0.05,
+    "include_confoundings": true,
+    "need_last_55": true,
+    "max_iterations": 30,
+    "retry": 10,
+    "percent_retry": 10
+}
