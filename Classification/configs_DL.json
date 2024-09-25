@@ -1,0 +1,31 @@
+{
+    "item": "vascular leakage",
+    "split_name": "Shalini",
+    "test_set": "test",
+    "validation_set": "val",
+    "get_name": "last_55",
+    "model": "swin_timm",
+    "loss": "w_co",
+    "batch": 1,
+    "epochs": 15,
+    "lr": "2e-05",
+    "accuracy_overfit": 0.99,
+    "data_augmentation": {
+        "rotate": false,
+        "miror": false
+    },
+    "test_mode": {
+        "data_%_used": 10,
+        "epochs": 1
+    },
+    "print_epoch": true,
+    "metric_select": "1-OCI_validation",
+    "metrics": {
+        "1-OCI_validation": 0.8864707381463147,
+        "1-OCI_test": 0.8374392460272708,
+        "accuracy_test": 0.8191489361702128,
+        "f1-binary_test": 0.8571428571428571,
+        "f1-weighted_test": 0.8136408441586466,
+        "kappa_test": 0.6396030672079387
+    }
+}

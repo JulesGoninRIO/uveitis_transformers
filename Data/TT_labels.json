@@ -1,0 +1,104 @@
+{
+    "table columns":
+        ["image quality", "confounding factors", "optic disk hyperfluorescence",
+         "macular edema", "vascular leakage", "vascular leakage (periphery)", "capillary leakage",
+         "capillary leakage (score)", "capillary non-perfusion", "capillary non-perfusion (score)",
+         "retinal neovascularization", "pinpoint leaks", "subretinal pooling", "comments", "T-T score"],
+    "T-T score": [
+        [0, "none", "bad", "0"],
+        [1, "partial staining", "faint hyperfluorescence", "focal","limited", "macular ischemia",
+        "posterior pole", "F", "nve", "medium", "1"],
+        [2, "diffuse staining", "incomplete ring of leakage", "multifocal", "diffuse (capillar)",
+        "extensive", "M", "nvd", "good", "2"],
+        [3, "margin blurring", "complete ring of leakage", "diffuse", "3"],
+        [4, "pooling of dye in cystic spaces", "extensive (staining)", "4"]
+    ],
+    "short_labels": {
+        "capillary leakage": [
+            "none",
+            "limited",
+            "diffuse"
+        ],
+        "macular edema": [
+            "none",
+            "faint fluorescence",
+            "incomplete ring",
+            "complete ring",
+            "pooling of dye"
+        ]
+    },
+    "main_items": [
+        "optic disk hyperfluorescence",
+        "macular edema",
+        "vascular leakage",
+        "capillary leakage"
+    ],
+    "vascular leakage": [
+        "none",
+        "focal",
+        "multifocal",
+        "diffuse"
+    ],
+    "vascular leakage (significant)": [
+        "not significant",
+        "significant"
+    ],
+    "vascular leakage (periphery)": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4"
+    ],
+    "vascular leakage (periphery 2)": [
+        "0",
+        "2",
+        "4"
+    ],
+    "capillary leakage": [
+        "none",
+        "limited",
+        "diffuse (capillar)"
+    ],
+    "capillary leakage (score)": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+    ],
+    "capillary leakage (score 4)": [
+        "0",
+        "4",
+        "8"
+    ],
+    "optic disk hyperfluorescence": [
+        "none",
+        "partial staining",
+        "diffuse staining",
+        "margin blurring"
+    ],
+    "macular edema (ring)": [
+        "none",
+        "faint hyperfluorescence",
+        "ring of leakage",
+        "pooling of dye in cystic spaces"
+    ],
+    "macular edema": [
+        "none",
+        "faint hyperfluorescence",
+        "incomplete ring of leakage",
+        "complete ring of leakage",
+        "pooling of dye in cystic spaces"
+    ],
+    "macular edema (grouped)": [
+        "none",
+        "faint leakage",
+        "complete leakage",
+        "pooling of dye"
+    ]
+}

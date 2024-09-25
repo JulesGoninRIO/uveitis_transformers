@@ -1,0 +1,50 @@
+{
+    "optic disk hyperfluorescence": {
+        "1-OCI_validation": 0.8576364839913034,
+        "1-OCI_test": 0.8507837504357472,
+        "accuracy_test": 0.7207207207207207,
+        "f1-binary_test": 0.9069767441860465,
+        "f1-weighted_test": 0.7238766717027587,
+        "kappa_test": 0.5080771979985703,
+        "model": "swin_timm",
+        "get_name": "last_55",
+        "loss": "w_co",
+        "lr": "1e-05"
+    },
+    "macular edema": {
+        "1-OCI_validation": 0.9048287126429679,
+        "1-OCI_test": 0.85901431413168,
+        "accuracy_test": 0.8108108108108109,
+        "f1-binary_test": 0.9014084507042254,
+        "f1-weighted_test": 0.8241902347862612,
+        "kappa_test": 0.6291759465478842,
+        "model": "swin_timm",
+        "get_name": "last_55",
+        "loss": "w_co",
+        "lr": "2e-05"
+    },
+    "vascular leakage": {
+        "1-OCI_validation": 0.9129124603351803,
+        "1-OCI_test": 0.8881711567240091,
+        "accuracy_test": 0.8648648648648649,
+        "f1-binary_test": 0.8260869565217391,
+        "f1-weighted_test": 0.8689437044700202,
+        "kappa_test": 0.6212465878070974,
+        "model": "swin_timm",
+        "get_name": "last_55",
+        "loss": "w_co",
+        "lr": "2e-05"
+    },
+    "capillary leakage": {
+        "1-OCI_validation": 0.9131577696905674,
+        "1-OCI_test": 0.8889745264146571,
+        "accuracy_test": 0.8648648648648649,
+        "f1-binary_test": 0.7692307692307693,
+        "f1-weighted_test": 0.8598997187232481,
+        "kappa_test": 0.6442307692307692,
+        "model": "swin_timm",
+        "get_name": "last_55",
+        "loss": "w_co",
+        "lr": "1e-05"
+    }
+}
